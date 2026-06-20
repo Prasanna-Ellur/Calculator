@@ -55,13 +55,6 @@ This project helped in understanding:
 * CSS Grid and Flexbox
 * Responsive UI Design
 
-## Future Improvements
-
-* Add decimal point support
-* Keyboard input support
-* Percentage (%) functionality
-* Scientific calculator operations
-* Dark/Light theme toggle
 
 ## Author
 
